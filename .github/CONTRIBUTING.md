@@ -84,3 +84,5 @@ If you're making changes to a translation, please request a review from our prev
 | 中文 | [Chinese (Traditional)](../translations/README.zh-tw.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/27748281?s=460&v=4" alt="@WeiChienHsu" />](https://github.com/WeiChienHsu) |
 | Zulu | [Zulu](../translations/README.zu.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris) []() |
 
+| Tiếng Việt | [Vietnamese](..translations/README.vn.md) | [img width="100" src="https://avatars.githubusercontent.com/u/115748225?v=4" alt="@danhpham" />](https://github.com/danhpham2000) |
+
